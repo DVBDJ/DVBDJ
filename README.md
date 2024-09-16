@@ -1,5 +1,5 @@
 
-- 👋 Hola, soy David valencia, desarrollador web full Stack.
+- 👋 Hola, soy David Valencia, desarrollador web full Stack.
 - 🙂 Actualmente sigo practicando más sobre el desarrollo.
 - 👤 Me interesa hacer amistad y compartir conocimientos.
 - 🤔 Actualmente sigo aprendiendo codigo.
